@@ -1,3 +1,3 @@
 export default function Home() {
-  return <main>Hello React </main>;
+  return <main>Hello React and Docker </main>;
 }
